@@ -37,9 +37,7 @@ route.post('/notes', (req, res) => {
 
             res.json(req.body); 
         })
-
     })
-
 })
 
 
